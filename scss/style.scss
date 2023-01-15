@@ -1,0 +1,18 @@
+@import "_zero";
+
+body {
+	font-size: 50px;
+
+	h1 {
+		color: rgb(145, 36, 36);
+	}
+}
+.block {
+	color: aquamarine;
+	&__items {
+		font-size: 35px;
+	}
+
+	&__item {
+	}
+}
